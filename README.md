@@ -51,7 +51,7 @@
 ## Screenshots
 
 ### Home Page
-![](https://github.com/Naman-Saxena1/Bookztron-E-Commerce_Book_Store/blob/development/src/Assets/Screenshots/Bookztron-HomePage-1.PNG)
+![](https://github.com/yuktiyadav/netsol/blob/main/src/Assets/Screenshots/Bookztron-HomePage-2.PNG)
 ![](https://github.com/Naman-Saxena1/Bookztron-E-Commerce_Book_Store/blob/development/src/Assets/Screenshots/Bookztron-HomePage-2.PNG)
 ![](https://github.com/Naman-Saxena1/Bookztron-E-Commerce_Book_Store/blob/development/src/Assets/Screenshots/Bookztron-HomePage-3.PNG)
 
